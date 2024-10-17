@@ -42,10 +42,10 @@ $materias = array("Matemática", "História", "Física"); // Array
 //     echo "Aluna reprovada!";
 // }
 
- //Para a aluna ser aprovada, precisa que a nota final seja a partir de 60 E frequencia seja a partir de 75%.
+ //Para a aluna ser aprovada, precisa que a nota final seja a partir de 60 OU que a frequencia seja a partir de 75%.
  $notaFinal = 70;
- $frequenciaAluna = 85; // Percentual de presença
+ $frequenciaAluna = 45; // Percentual de presença
  if($notaFinal >= 60 || $frequenciaAluna >= 75){
-    echo "Aluna aprovada!";
+     echo "Aluna aprovada!";
  }
 ?>
