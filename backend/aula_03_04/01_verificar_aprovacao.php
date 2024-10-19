@@ -20,4 +20,12 @@ if($notaFinal >= 6) {
      echo "\n Nota inválida!";
  }    
 
+
+
+//  $nota = 7.5;
+//  if($nota >= 6){
+//      echo "A aluna fo reprovada.";
+//  } else {
+//     echo "A aluna foi reprovada.";
+//  }
 ?>
