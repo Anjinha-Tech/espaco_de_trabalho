@@ -16,5 +16,5 @@ class Main {
     }
 }
 
-Main::run();
+Main::run(); 
 ?>
